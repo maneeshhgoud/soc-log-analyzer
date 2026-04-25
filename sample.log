@@ -1,0 +1,18 @@
+Jan 10 09:00:01 server sshd[1234]: Failed password for root from 192.168.1.50 port 22
+Jan 10 09:00:05 server sshd[1234]: Failed password for admin from 10.0.0.5 port 22
+Jan 10 09:00:09 server sshd[1234]: Failed password for root from 192.168.1.99 port 22
+Jan 10 09:00:12 server sshd[1234]: too many authentication failures for root
+Jan 10 09:01:00 firewall kernel: port scan detected from 203.0.113.77
+Jan 10 09:01:15 firewall kernel: SYN flood attempt from 172.16.0.55 port 4444
+Jan 10 09:02:00 antivirus: malware detected in /tmp/update.exe - trojan.generic
+Jan 10 09:02:45 server sudo: jdoe issued a sudo command - privilege escalation attempt
+Jan 10 09:03:10 proxy: suspicious link clicked by user bob@company.com - phishing
+Jan 10 09:04:00 dlp: large outbound transfer detected from 192.168.1.99 to external IP
+Jan 10 09:04:30 server sshd[1234]: Failed password for user1 from 10.0.0.254 port 22
+Jan 10 09:05:00 server sshd[1234]: authentication failure for root from 192.168.1.99
+Jan 10 09:05:30 server sshd[1234]: Invalid user testuser from 203.0.113.77
+Jan 10 09:06:00 firewall: unusual data transfer volume from 172.16.0.55
+Jan 10 09:07:00 server sshd[1234]: Accepted password for devuser from 10.0.0.1 port 22
+Jan 10 09:08:00 server sudo: root login via terminal session opened
+Jan 10 09:09:00 antivirus: ransomware signature found in C:\Users\Public\file.exe
+Jan 10 09:10:00 proxy: malicious URL blocked for user alice@company.com
